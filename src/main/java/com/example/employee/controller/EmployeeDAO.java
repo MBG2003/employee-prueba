@@ -30,9 +30,9 @@ public class EmployeeDAO {
 
         list.getEmployeeList().add(
                 new Employee(
-                        2, "Vikash",
-                        "Kumar",
-                        "abc@gmail.com"));
+                        2, "Juan",
+                        "Perez",
+                        "juan.perez@gmail.com"));
 
         list.getEmployeeList().add(
                 new Employee(
